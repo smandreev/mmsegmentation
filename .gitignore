@@ -118,3 +118,8 @@ mmseg/.mim
 
 # Pytorch
 *.pth
+
+# Dataset
+data/train_dataset_for_students/
+work_dirs/
+practicum_work/supplementary/viz/baselines/

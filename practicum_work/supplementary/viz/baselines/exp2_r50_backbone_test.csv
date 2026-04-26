@@ -1,0 +1,5 @@
+experiment,split,metric,value
+exp2_r50_backbone,test,aAcc,97.62
+exp2_r50_backbone,test,mDice,90.4
+exp2_r50_backbone,test,mAcc,88.45
+exp2_r50_backbone,test,mIoU,83.07

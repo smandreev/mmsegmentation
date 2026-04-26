@@ -1,0 +1,5 @@
+experiment,split,metric,value
+deeplabv3plus_r18_bs8_5k,test,aAcc,96.74
+deeplabv3plus_r18_bs8_5k,test,mDice,86.21
+deeplabv3plus_r18_bs8_5k,test,mAcc,84.19
+deeplabv3plus_r18_bs8_5k,test,mIoU,76.92

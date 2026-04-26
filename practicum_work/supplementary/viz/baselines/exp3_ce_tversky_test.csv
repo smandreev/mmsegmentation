@@ -1,0 +1,5 @@
+experiment,split,metric,value
+exp3_ce_tversky,test,aAcc,94.92
+exp3_ce_tversky,test,mDice,77.43
+exp3_ce_tversky,test,mAcc,72.84
+exp3_ce_tversky,test,mIoU,65.63

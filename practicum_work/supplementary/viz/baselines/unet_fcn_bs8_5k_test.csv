@@ -1,0 +1,5 @@
+experiment,split,metric,value
+unet_fcn_bs8_5k,test,aAcc,92.21
+unet_fcn_bs8_5k,test,mDice,63.1
+unet_fcn_bs8_5k,test,mAcc,59.01
+unet_fcn_bs8_5k,test,mIoU,51.24

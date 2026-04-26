@@ -1,0 +1,5 @@
+experiment,split,metric,value
+exp1_albu_aug,val,aAcc,96.57
+exp1_albu_aug,val,mDice,86.41
+exp1_albu_aug,val,mAcc,83.94
+exp1_albu_aug,val,mIoU,77.17
